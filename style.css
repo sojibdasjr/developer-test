@@ -14,6 +14,7 @@ section{
 .bannar{
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
+    background-position: right;
 }
 .pt{color: orange;
 }
